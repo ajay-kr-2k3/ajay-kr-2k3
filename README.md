@@ -1,6 +1,7 @@
 I'm Ajay Kumar, 
 a Student, 
-Programmer
+Programmer, 
+Android Developer.
 
 <!---
 ajay-kr-2k3/ajay-kr-2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
