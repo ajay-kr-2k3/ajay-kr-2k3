@@ -1,6 +1,6 @@
 I'm Ajay Kumar, 
 a Student, 
-Programmer, 
+Programmer and
 Android Developer.
 
 <!---
