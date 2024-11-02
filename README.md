@@ -1,4 +1,8 @@
-👋 Hi, I'm Ajay Kumar! Android Developer in the Making | BCA Student | Tech Enthusiast. I'm a passionate developer currently honing my skills in Android development and web design. I love creating innovative projects that solve real-world problems, and my journey so far has been full of exciting challenges and learning opportunities.
+👋 Hi, I'm Ajay Kumar! 
+Android Developer in the Making | BCA Student | Tech Enthusiast. 
+I'm a passionate developer currently honing my skills in Android development and web design. 
+I love creating innovative projects that solve real-world problems, and my journey so far 
+has been full of exciting challenges and learning opportunities.
 
 Education: BCA student, specializing in Computer Science
 Programming Languages: C, C++, Java, PHP
