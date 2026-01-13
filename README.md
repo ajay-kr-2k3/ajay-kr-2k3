@@ -1,13 +1,7 @@
-👋 Hi, I'm Ajay Kumar! 
-Android Developer in the Making | BCA Student | Tech Enthusiast. 
-I'm a passionate developer currently honing my skills in Android development and web design. 
-I love creating innovative projects that solve real-world problems, and my journey so far 
-has been full of exciting challenges and learning opportunities.
+Hi, I'm Ajay Kumar! 
+I am a passionate Robotics, IoT, and Artificial Intelligence Trainer working full-time with RoboTree Robotics.
 
-Education: BCA student, specializing in Computer Science
-Programming Languages: C, C++, Java, PHP
-Tech Interests: Mobile app development, website design, AI integration, and cybersecurity
-Operating Systems: Kali Linux, Windows
+I have hands-on experience in delivering project-based technical training to students, focusing on practical learning using Arduino, ESP32, IoT systems, and AI concepts. Along with core robotics training, I actively promote digital awareness and technical skills among students.
 
 <!---
 ajay-kr-2k3/ajay-kr-2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
